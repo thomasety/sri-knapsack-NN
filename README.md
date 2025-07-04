@@ -1,5 +1,5 @@
 # sri-knapsack-NN
-This is a project for Harvard student research institute summer program for high schoolers.
+This is a esearch project for the Harvard student research institute summer program for high schoolers.
 
 Our goal during this research project is to find out how well neural networks can perform on “non-deterministic polynomial time” (NP) problems compared to standard algorithms. 
 If a problem is NP, that means we do not know how to find a solution in polynomial time, but we can verify a solution in polynomial time. 
